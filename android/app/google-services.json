@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328175741538",
+    "firebase_url": "https://electronic-new.firebaseio.com",
+    "project_id": "electronic-new",
+    "storage_bucket": "electronic-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328175741538:android:4a8fa255b17c5823507f3b",
+        "android_client_info": {
+          "package_name": "com.example.electronic_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328175741538-29ls6bqnqt2ui531rtms95bgerirft10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electronic_new",
+            "certificate_hash": "e1193fa0d87fe680d76327230e24816869611a51"
+          }
+        },
+        {
+          "client_id": "328175741538-dor21bv92jk4hjktq9df3gb4innrbqor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlp8UYiJc3ZGSv9p5Qfuma31p2csFfWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328175741538-dor21bv92jk4hjktq9df3gb4innrbqor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
